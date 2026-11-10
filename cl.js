@@ -9,7 +9,7 @@ const productCatalog = [
         category: "Urban Sneakers",
         price: 85000,
         tag: "BEST SELLER",
-        image: "img/Jordan-Nike.jpg",
+        image: "Jordan-Nike.jpg",
         description: "Built for the city and refined for the weekend. A clean profile, premium cushioning, and standout colourway designed to move with you.",
         colors: [
             { name: "Sunset Red", hex: "#e64d46" },
@@ -24,7 +24,7 @@ const productCatalog = [
         category: "Everyday Sneakers",
         price: 95000,
         tag: "NEW DROP",
-        image: "img/Mens shoes ideas.jpg",
+        image: "Mens shoes ideas.jpg",
         description: "Minimal, versatile, and ready for daily rotation. This everyday essential balances texture, fit, and comfort in one bold silhouette.",
         colors: [
             { name: "Ash Grey", hex: "#a7abb2" },
@@ -39,7 +39,7 @@ const productCatalog = [
         category: "Street Collection",
         price: 110000,
         tag: "LIMITED",
-        image: "img/Nike Men's Air Force 1 '07 Sneaker.jpg",
+        image: "Nike Men's Air Force 1 '07 Sneaker.jpg",
         description: "An elevated sneaker built for movement and attention. Crisp lines, premium materials, and a confident finish bring standout energy to any look.",
         colors: [
             { name: "Slate Blue", hex: "#364a6e" },
@@ -54,7 +54,7 @@ const productCatalog = [
         category: "Sport Lifestyle",
         price: 90000,
         tag: "TRENDING",
-        image: "img/Blue Nubuck Torino.jpg",
+        image: "Blue Nubuck Torino.jpg",
         description: "Lightweight comfort meets a sharp, modern finish. Built for daily movement without sacrificing the premium feel you expect from SOLE DISTRICT.",
         colors: [
             { name: "Blue Nubuck", hex: "#4b7ec0" },
@@ -69,7 +69,7 @@ const productCatalog = [
         category: "Essential Collection",
         price: 25000,
         tag: "NEW",
-        image: "img/10 Streetwear Color Combinations That Never Go Out of Style_ Timeless Looks for Your Wardrobe.jpg",
+        image: "10 Streetwear Color Combinations That Never Go Out of Style_ Timeless Looks for Your Wardrobe.jpg",
         description: "Relaxed, oversized and effortless. A key streetwear staple designed to sit clean, feel soft, and complete your everyday rotation.",
         colors: [
             { name: "Cloud White", hex: "#f3f1eb" },
@@ -84,7 +84,7 @@ const productCatalog = [
         category: "Premium Streetwear",
         price: 45000,
         tag: "POPULAR",
-        image: "img/1096696946793563262.jpg",
+        image: "1096696946793563262.jpg",
         description: "Premium heavyweight fleece with a dropped silhouette, plush interior, and the kind of fit that defines your everyday look.",
         colors: [
             { name: "Blackout", hex: "#121212" },
@@ -99,7 +99,7 @@ const productCatalog = [
         category: "Street Collection",
         price: 38000,
         tag: "TRENDING",
-        image: "img/55555.jpg",
+        image: "55555.jpg",
         description: "A versatile street fit with elevated basics and easy movement. It layers cleanly and keeps the focus on your unique energy.",
         colors: [
             { name: "Mist Grey", hex: "#b9bdc4" },
@@ -114,7 +114,7 @@ const productCatalog = [
         category: "Outerwear",
         price: 65000,
         tag: "NEW DROP",
-        image: "img/992480836621455259.jpg",
+        image: "992480836621455259.jpg",
         description: "A statement layer with utility detailing, warm insulation, and the sharp finish needed to stand out in any crowd.",
         colors: [
             { name: "Storm Black", hex: "#171718" },
@@ -129,7 +129,7 @@ const productCatalog = [
         category: "Trail Performance",
         price: 98000,
         tag: "NEW",
-        image: "img/New Samba release in white leather with green….jpg",
+        image: "New Samba release in white leather with green….jpg",
         description: "Built for all-day movement with extra grip, a responsive ride, and a sleek profile that transitions from street to trail seamlessly.",
         colors: [
             { name: "Forest Green", hex: "#34705b" },
@@ -144,7 +144,7 @@ const productCatalog = [
         category: "Lifestyle Runner",
         price: 92000,
         tag: "TRENDING",
-        image: "img/Zapatillas Puma Park Lifestyle Easy Unisex Moda Negro.jpg",
+        image: "Zapatillas Puma Park Lifestyle Easy Unisex Moda Negro.jpg",
         description: "A light, easy-going everyday sneaker with plush comfort and a sporty finish designed for fast city movement.",
         colors: [
             { name: "Electric Blue", hex: "#2b74d9" },
@@ -159,7 +159,7 @@ const productCatalog = [
         category: "Premium Street",
         price: 101000,
         tag: "LIMITED",
-        image: "img/Timberland comemora 40 anos com 1973 pares de botas numeradas e exclusivas.jpg",
+        image: "Timberland comemora 40 anos com 1973 pares de botas numeradas e exclusivas.jpg",
         description: "A refined hybrid built with premium textures, cushioning, and elevated design language for statement everyday wear.",
         colors: [
             { name: "Shadow Black", hex: "#171717" },
@@ -174,7 +174,7 @@ const productCatalog = [
         category: "Essential Basics",
         price: 22000,
         tag: "NEW",
-        image: "img/219.jpg",
+        image: "219.jpg",
         description: "A fresh everyday essential with premium cotton feel, relaxed fit, and refined streetwear simplicity.",
         colors: [
             { name: "Clean White", hex: "#f5f1ea" },
@@ -189,7 +189,7 @@ const productCatalog = [
         category: "Heavyweight Layering",
         price: 48000,
         tag: "POPULAR",
-        image: "img/03550901400-A2M_jpg (1440×2161).jpg",
+        image: "03550901400-A2M_jpg (1440×2161).jpg",
         description: "A heavyweight layer with plush lining, oversized shape, and subtle detailing for all-day comfort and edge.",
         colors: [
             { name: "Obsidian", hex: "#121212" },
@@ -204,7 +204,7 @@ const productCatalog = [
         category: "Outerwear",
         price: 71000,
         tag: "LIMITED",
-        image: "img/Jaqueta casual masculina de streetwear com estampa em cores contrastantes.jpg",
+        image: "Jaqueta casual masculina de streetwear com estampa em cores contrastantes.jpg",
         description: "Clean utility details and a structured silhouette make this bomber an ideal layer for cold nights and city movement.",
         colors: [
             { name: "Olive Steel", hex: "#4a563d" },
@@ -219,7 +219,7 @@ const productCatalog = [
         category: "Premium Essentials",
         price: 36000,
         tag: "TRENDING",
-        image: "img/Outfit streetwear avec jersey oversize – Style urbain minimaliste.jpg",
+        image: "Outfit streetwear avec jersey oversize – Style urbain minimaliste.jpg",
         description: "A softer knit silhouette with a relaxed shape, premium hand feel, and standout streetwear character.",
         colors: [
             { name: "Heather Grey", hex: "#b7bcc2" },
@@ -455,7 +455,7 @@ function getProductImage(item) {
         ? productLookup.get(item.productId)
         : null;
     const catalogImage = catalogProduct?.image || productCatalog.find(product => product.name === item?.name)?.image;
-    return resolveImagePath(catalogImage || productCatalog[0]?.image || "img/Jordan-Nike.jpg");
+    return resolveImagePath(catalogImage || productCatalog[0]?.image || "Jordan-Nike.jpg");
 }
 
 function renderBagPage() {
